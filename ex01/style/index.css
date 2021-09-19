@@ -1,0 +1,25 @@
+img {
+    width: 400;
+    height: 300;
+}
+table {
+    margin: 10px;
+}
+
+}
+
+title {
+    font-size: 2em;
+    color:firebrick;
+}
+body {
+     font-family: Times New Roman;
+}
+p {
+   color:deepskyblue;
+
+}
+a {
+    idth: 400;
+    height: 300;
+}
