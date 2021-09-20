@@ -6,8 +6,6 @@ table {
     margin: 10px;
 }
 
-}
-
 title {
     font-size: 2em;
     color:firebrick;
@@ -19,7 +17,9 @@ p {
    color:deepskyblue;
 
 }
-a {
-    idth: 400;
-    height: 300;
+
+
+image-resize {
+    height: 300px;
+
 }
